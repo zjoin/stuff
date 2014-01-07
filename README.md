@@ -9,6 +9,8 @@
 
 <a href="http://codepen.io/terrymun/full/JKHwp">Крутое открытое изображений</a>
 
+<a href="http://www.justinaguilar.com/animations/index.html#">CSS3 Animation</a>
+
 
 
 
