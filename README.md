@@ -13,10 +13,13 @@
 
 
 ### Статьи по Grunt
-____________________________________
+
+<a href="http://clck.ru/922Sy">Grunt для тех, кто считает штуки вроде него странными и сложными</a>
+
+<a href="http://webgears.ru/articles/11">Используем Grunt</a>
 
 
-
+<a href="http://nano.sapegin.ru/all/grunt-0-4">Grunt 0.4: система сборки для фронтенд-разработчиков</a>
 
 
 
