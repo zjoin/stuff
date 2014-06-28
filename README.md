@@ -24,5 +24,6 @@
 
 ### UI components
 <a href="http://robdel12.github.io/DropKick/">DropKick.js — плагин для стилизации дропдаунов</a>
+<a href="http://madebymade.github.io/jquery-navobile/">jQuery Navobile — очередной плагин для респонсивной трансформации навигации</a>
 
 
