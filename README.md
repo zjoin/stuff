@@ -23,6 +23,6 @@
 
 
 ### UI components
-
+<a href="http://robdel12.github.io/DropKick/">DropKick.js — плагин для стилизации дропдаунов</a>
 
 
