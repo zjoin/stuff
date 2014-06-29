@@ -22,6 +22,12 @@
 <a href="http://nano.sapegin.ru/all/grunt-0-4">Grunt 0.4: система сборки для фронтенд-разработчиков</a>
 
 
+### Статьи по Flexbox
+
+<a href="http://benfrain.com/css-performance-test-flexbox-v-css-table-fight/">CSS performance test: Flexbox v CSS Table – Fight!</a>
+
+
+
 ### UI components
 <a href="http://robdel12.github.io/DropKick/">DropKick.js — плагин для стилизации дропдаунов</a>
 <a href="http://madebymade.github.io/jquery-navobile/">jQuery Navobile — очередной плагин для респонсивной трансформации навигации</a>
