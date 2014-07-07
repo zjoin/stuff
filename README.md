@@ -33,5 +33,7 @@
 <a href="http://vst.mn/selectordie/">Кастомизации стандартного вида select</a><br>
 <a href="http://madebymade.github.io/jquery-navobile/">jQuery Navobile — очередной плагин для респонсивной трансформации навигации</a>
 
-
+<a href="https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html">
+  A jQuery Plugin to resize images to fit in a container.
+</a>
 
