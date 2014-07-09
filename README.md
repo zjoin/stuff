@@ -37,3 +37,6 @@
   A jQuery Plugin to resize images to fit in a container.
 </a>
 
+### На каждый день
+<a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills">HTML5 Cross Browser Polyfills </a><br>
+<a href="https://github.com/dypsilon/frontend-dev-bookmarks">Frontend Development</a><br>
