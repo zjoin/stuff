@@ -24,7 +24,9 @@
 
 ### Статьи по Flexbox
 
-<a href="http://benfrain.com/css-performance-test-flexbox-v-css-table-fight/">CSS performance test: Flexbox v CSS Table – Fight!</a>
+<a href="http://benfrain.com/css-performance-test-flexbox-v-css-table-fight/">CSS performance test: Flexbox v CSS Table – Fight!</a><br>
+<a href="http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback">Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback</a><br>
+
 
 
 
