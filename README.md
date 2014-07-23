@@ -37,7 +37,11 @@
 
 <a href="https://dl.dropboxusercontent.com/u/6983010/wserv/imgLiquid/examples/imgLiquid.html">
   A jQuery Plugin to resize images to fit in a container.
-</a>
+</a><br>
+
+<a href="http://ademilter.com/lab/liffect/">
+ Крутое появление галлереи
+</a><br>
 
 ### На каждый день
 <a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills">HTML5 Cross Browser Polyfills </a><br>
