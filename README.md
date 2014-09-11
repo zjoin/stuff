@@ -40,6 +40,9 @@
 <a href="http://ademilter.com/lab/liffect/">
  Крутое появление галлереи
 </a><br>
+<a href="https://github.com/defunkt/jquery-pjax">
+ Переход страниц на Ajax
+</a><br>
 
 ### На каждый день
 <a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills">HTML5 Cross Browser Polyfills </a><br>
