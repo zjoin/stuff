@@ -47,4 +47,5 @@
 ### На каждый день
 <a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills">HTML5 Cross Browser Polyfills </a><br>
 <a href="https://github.com/dypsilon/frontend-dev-bookmarks">Frontend Development</a><br>
-<a href="http://lollyt.in/"> Быстрая и удобная сборка шаблонов на Bootsrap 3</a>
+<a href="http://lollyt.in/"> Быстрая и удобная сборка шаблонов на Bootsrap 3</a><br>
+<a href="http://codegeekz.com/css-effect-libraries-creating-beautiful-animations/"> Подборка библиотек по css3 анамации</a><br>
