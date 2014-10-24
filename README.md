@@ -50,3 +50,5 @@
 <a href="http://lollyt.in/"> Быстрая и удобная сборка шаблонов на Bootsrap 3</a><br>
 <a href="http://codegeekz.com/css-effect-libraries-creating-beautiful-animations/"> Подборка библиотек по css3 анамации</a><br>
 <a href="http://drastudio.github.io/url-generator/"> Manual URL Generator GitHub Pages (gh-pages)</a><br>
+<a href="http://codepen.io/patterns/"> Design Patterns </a><br>
+
