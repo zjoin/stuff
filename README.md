@@ -52,4 +52,5 @@
 <a href="http://drastudio.github.io/url-generator/"> Manual URL Generator GitHub Pages (gh-pages)</a><br>
 <a href="http://codepen.io/patterns/"> Design Patterns </a><br>
 <a href="http://devshelf.us/"> ХАБ СТАТЕЙ ПРО ВЕБ-РАЗРАБОТКУ </a><br>
+<a href="http://sixrevisions.com/tutorials/devtools-tutorials/"> Google Chrome DevTools Tutorials </a><br>
 
