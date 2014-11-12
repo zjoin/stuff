@@ -17,8 +17,6 @@
 
 <a href="http://benfrain.com/css-performance-test-flexbox-v-css-table-fight/">CSS performance test: Flexbox v CSS Table – Fight!</a><br>
 <a href="http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback">Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback</a><br>
-[This link](http://example.net/) has no title attribute.
-
 
 
 ### UI components
@@ -44,4 +42,22 @@
 <a href="http://codepen.io/patterns/"> Design Patterns </a><br>
 <a href="http://devshelf.us/"> ХАБ СТАТЕЙ ПРО ВЕБ-РАЗРАБОТКУ </a><br>
 <a href="http://sixrevisions.com/tutorials/devtools-tutorials/"> Google Chrome DevTools Tutorials </a><br>
+
+
+
+
+### Git 
+ 
+git config --list >  
+  user.name=Dima Valuev
+  user.email=document.letter@gmail.com
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
