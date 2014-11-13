@@ -48,7 +48,7 @@
 
 ### Плагины для старта сайта
  
-[1]: http://manos.malihu.gr/jquery-custom-content-scroller "Плавный скролинг страницы"
+[Плавный скролинг страницы] (http://manos.malihu.gr/jquery-custom-content-scroller) 
    
  
  
