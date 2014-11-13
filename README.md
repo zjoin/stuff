@@ -46,11 +46,9 @@
 
 
 
-### Git 
+### Плагины для старта сайта
  
-git config --list >  
-  user.name=Dima Valuev
-  user.email=document.letter@gmail.com
+[1]: http://manos.malihu.gr/jquery-custom-content-scroller "Плавный скролинг страницы"
    
  
  
