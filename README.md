@@ -48,7 +48,7 @@
 
 ### Плагины для старта сайта
  
-[Плавный скролинг страницы] (http://manos.malihu.gr/jquery-custom-content-scroller) 
+[Плавный скролинг страницы] (http://manos.malihu.gr/jquery-custom-content-scroller) <br>
 [Automatic page load progress bar] (http://github.hubspot.com/pace/docs/welcome/)
    
  
