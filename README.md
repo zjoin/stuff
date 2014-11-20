@@ -42,7 +42,7 @@
 <a href="http://codepen.io/patterns/"> Design Patterns </a><br>
 <a href="http://devshelf.us/"> ХАБ СТАТЕЙ ПРО ВЕБ-РАЗРАБОТКУ </a><br>
 <a href="http://sixrevisions.com/tutorials/devtools-tutorials/"> Google Chrome DevTools Tutorials </a><br>
-
+[Visualizing Git Concepts](http://onlywei.github.io/explain-git-with-d3/)
 
 
 
