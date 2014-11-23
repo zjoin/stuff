@@ -52,7 +52,7 @@
 [Automatic page load progress bar] (http://github.hubspot.com/pace/docs/welcome/)
    
  
- #### Sliders
+ ### Sliders
  
 [owlcarousel] (http://www.owlcarousel.owlgraphic.com/) <br>
 [bxslider] (http://bxslider.com/) <br>
