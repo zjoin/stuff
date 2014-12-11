@@ -55,7 +55,16 @@
 [bxslider] (http://bxslider.com/) <br>
 [blueimp] (https://blueimp.github.io/Gallery/) <br>
 
- 
+### Учебные материалы
+
+[Огромный список по angular] (https://github.com/jmcunningham/AngularJS-Learning) <br>
+[Code school angular] (http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+[Code shcool - jquery ] (https://www.codeschool.com/courses/try-jquery) <br>
+[Codeacademy] (http://www.codecademy.com/)
+[Javascript game] (http://codecombat.com/)
+
+
+
  
  
  
