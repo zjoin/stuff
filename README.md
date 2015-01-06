@@ -53,7 +53,17 @@
 [Неплохая техника для обрезающегося текста] (http://tutorialzine.com/2014/02/technique-hiding-overflowing-text/) <br>
 [Виджет рейтинг-звездочки на Sass] (http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/) <br>
 [Как ускорить ваш сайт с помощью AJAX и jQuery] (http://www.webdesignerdepot.com/2014/02/how-to-supercharge-your-sites-speed-with-ajax-and-jquery/) <br>
+[Фича, прокручивающая изображение, как в приложении Paper от Facebook на HTML5] (http://jt.io/2014/photo-tilt/) <br>
+[Инструмент для автоматического тестирования в браузере] (http://nightwatchjs.org/) <br>
+[Адаптивный и с поддержкой тач-устройств] (http://osvaldas.info/image-lightbox-responsive-touch-friendly) <br>
+[искусство создаваемое кодерами (проект Google)] (https://devart.withgoogle.com/#/) <br>
+[Ход мыслей при решении проблем с Front-end] (http://css-tricks.com/thought-process-front-end-problem/) <br>
+[Кнопка включающая/выключающая меню на чистом CSS] (http://www.outofscope.com/css-only-menu-toggle-no-javascript-required/)
+<br>
+[]() <br>
+[]() <br>
 
+ 
 
 
 ### Плагины для старта сайта
