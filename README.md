@@ -58,10 +58,15 @@
 ### Учебные материалы
 
 [Огромный список по angular] (https://github.com/jmcunningham/AngularJS-Learning) <br>
-[Code school angular] (http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+[Code school angular] (http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro) <br>
 [Code shcool - jquery ] (https://www.codeschool.com/courses/try-jquery) <br>
-[Codeacademy] (http://www.codecademy.com/)
-[Javascript game] (http://codecombat.com/)
+[Codeacademy] (http://www.codecademy.com/) <br>
+[Javascript game] (http://codecombat.com/) <br>
+
+
+### И еще кое-что
+
+[Touch Emulator] (http://codecombat.com/)
 
 
 
