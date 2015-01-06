@@ -33,6 +33,11 @@
  Переход страниц на Ajax
 </a><br>
 
+### UI components for Angular
+
+[Модальные и всплывающие окна для приложений на Angular.js] (http://likeastore.github.io/ngDialog/) <br>
+[Cетка, похожая на mansory, для AngularJS] (http://andrekoenig.info/angular-deckgrid/#/) <br>
+
 ### На каждый день
 <a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills">HTML5 Cross Browser Polyfills </a><br>
 <a href="https://github.com/dypsilon/frontend-dev-bookmarks">Frontend Development</a><br>
@@ -42,7 +47,12 @@
 <a href="http://codepen.io/patterns/"> Design Patterns </a><br>
 <a href="http://devshelf.us/"> ХАБ СТАТЕЙ ПРО ВЕБ-РАЗРАБОТКУ </a><br>
 <a href="http://sixrevisions.com/tutorials/devtools-tutorials/"> Google Chrome DevTools Tutorials </a><br>
-[Visualizing Git Concepts](http://onlywei.github.io/explain-git-with-d3/)
+[Visualizing Git Concepts](http://onlywei.github.io/explain-git-with-d3/) <br>
+[Генератор паролей] (http://www.passweird.com/) <br>
+[Стилизуем placeholder при помощи CSS] (http://html5.by/blog/placeholder/) <br>
+[Неплохая техника для обрезающегося текста] (http://tutorialzine.com/2014/02/technique-hiding-overflowing-text/) <br>
+[Виджет рейтинг-звездочки на Sass] (http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/) <br>
+[Как ускорить ваш сайт с помощью AJAX и jQuery] (http://www.webdesignerdepot.com/2014/02/how-to-supercharge-your-sites-speed-with-ajax-and-jquery/) <br>
 
 
 
