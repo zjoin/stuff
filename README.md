@@ -76,7 +76,7 @@
 
 ### И еще кое-что
 
-[Touch Emulator] (http://codecombat.com/)
+[Touch Emulator] (http://hammerjs.github.io/)
 
 
 
