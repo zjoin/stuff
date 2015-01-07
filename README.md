@@ -60,8 +60,11 @@
 [Ход мыслей при решении проблем с Front-end] (http://css-tricks.com/thought-process-front-end-problem/) <br>
 [Кнопка включающая/выключающая меню на чистом CSS] (http://www.outofscope.com/css-only-menu-toggle-no-javascript-required/)
 <br>
-[]() <br>
-[]() <br>
+[Библиотека, создающая анимированные частицы (canvas) для эффектных бекграундов] (http://vincentgarreau.com/particles.js/) <br>
+[] () <br>
+[] () <br>
+[] () <br>
+[] () <br>
 
  
 
