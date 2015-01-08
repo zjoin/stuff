@@ -61,7 +61,7 @@
 [Кнопка включающая/выключающая меню на чистом CSS] (http://www.outofscope.com/css-only-menu-toggle-no-javascript-required/)
 <br>
 [Библиотека, создающая анимированные частицы (canvas) для эффектных бекграундов] (http://vincentgarreau.com/particles.js/) <br>
-[] () <br>
+[Выборка по юзер-агенту с помощью CSS] (http://rog.ie/blog/html5-boilerplate-addon) <br>
 [] () <br>
 [] () <br>
 [] () <br>
