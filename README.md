@@ -62,7 +62,7 @@
 <br>
 [Библиотека, создающая анимированные частицы (canvas) для эффектных бекграундов] (http://vincentgarreau.com/particles.js/) <br>
 [Выборка по юзер-агенту с помощью CSS] (http://rog.ie/blog/html5-boilerplate-addon) <br>
-[] () <br>
+[Создание интерактивного фона, реагирующего на движение курсора мыши] (http://www.onextrapixel.com/2014/04/09/create-an-interactive-moving-backgroundobject-that-reacts-to-viewers-cursor/) <br>
 [] () <br>
 [] () <br>
 
