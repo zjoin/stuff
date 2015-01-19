@@ -77,7 +77,7 @@
 [owlcarousel] (http://www.owlcarousel.owlgraphic.com/) <br>
 [bxslider] (http://bxslider.com/) <br>
 [blueimp] (https://blueimp.github.io/Gallery/) <br>
-[Простая сетка длябыстрого внедрения в страницу] (http://jsfiddle.net/8xu5rj92/) <br>
+[Простая сетка для быстрого внедрения в страницу] (http://jsfiddle.net/8xu5rj92/) <br>
 
 ### Учебные материалы
 
