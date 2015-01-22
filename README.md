@@ -74,10 +74,15 @@
 [Плавный скролинг страницы] (http://manos.malihu.gr/jquery-custom-content-scroller) <br>
 [Automatic page load progress bar] (http://github.hubspot.com/pace/docs/welcome/) <br>
 [JavaScript image gallery for mobile and desktop] (http://photoswipe.com/) <br>
-[owlcarousel] (http://www.owlcarousel.owlgraphic.com/) <br>
-[bxslider] (http://bxslider.com/) <br>
 [blueimp] (https://blueimp.github.io/Gallery/) <br>
 [Простая сетка для быстрого внедрения в страницу] (http://jsfiddle.net/8xu5rj92/) <br>
+
+### Слайдеры
+
+[owlcarousel] (http://www.owlcarousel.owlgraphic.com/) <br>
+[bxslider] (http://bxslider.com/) <br>
+[Carousel slick] (http://kenwheeler.github.io/slick/) <br>
+
 
 ### Учебные материалы
 
