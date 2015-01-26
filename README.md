@@ -1,22 +1,17 @@
 -------------------------------------------------------------------------
 
-<a href="http://www.jsdb.io/">__JSDB.IO__</a> — большая и качественная база нужных скриптов/библиотек/фреймворков на JavaScript.
-Все распределено по категориям: Animation, Application, Audio, Video, Games и др.
-
-<a href="http://usablica.github.io/front-end-frameworks/compare.html">Коллекция CSS __frontend frameworks__</a>
-
-<a href="http://lokeshdhakar.com/projects/color-thief/">Клевое drag'n'drop приложение которое определяет цветовую палитру изображения</a>
-
-<a href="http://codepen.io/terrymun/full/JKHwp">Крутое открытое изображений</a>
-
-<a href="http://www.justinaguilar.com/animations/index.html#">CSS3 Animation</a>
+[Большая база нужных скриптов/библиотек/фреймворков на JavaScript.] (http://www.jsdb.io/) <br>
+[Коллекция CSS frameworks] (http://usablica.github.io/front-end-frameworks/compare.html) <br>
+[Клевое drag'n'drop приложение которое определяет цветовую палитру изображения] (http://lokeshdhakar.com/projects/color-thief/) <br>
+[Крутое открытое изображений] (http://codepen.io/terrymun/full/JKHwp) <br>
+[CSS3 Animation] (http://www.justinaguilar.com/animations/index.html) <br>
 
 
 
 ### Статьи по Flexbox
 
-<a href="http://benfrain.com/css-performance-test-flexbox-v-css-table-fight/">CSS performance test: Flexbox v CSS Table – Fight!</a><br>
-<a href="http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback">Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback</a><br>
+[CSS performance test: Flexbox v CSS Table – Fight!] (http://benfrain.com/css-performance-test-flexbox-v-css-table-fight/) <br>
+[Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback] (http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback) <br>
 
 
 ### UI components
@@ -32,6 +27,10 @@
 <a href="https://github.com/defunkt/jquery-pjax">
  Переход страниц на Ajax
 </a><br>
+[Tag input] (http://bevacqua.github.io/insignia/)
+[] ()
+[] ()
+[] ()
 
 ### UI components for Angular
 
@@ -39,15 +38,15 @@
 [Cетка, похожая на mansory, для AngularJS] (http://andrekoenig.info/angular-deckgrid/#/) <br>
 
 ### На каждый день
-<a href="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills">HTML5 Cross Browser Polyfills </a><br>
-<a href="https://github.com/dypsilon/frontend-dev-bookmarks">Frontend Development</a><br>
-<a href="http://lollyt.in/"> Быстрая и удобная сборка шаблонов на Bootsrap 3</a><br>
-<a href="http://codegeekz.com/css-effect-libraries-creating-beautiful-animations/"> Подборка библиотек по css3 анамации</a><br>
-<a href="http://drastudio.github.io/url-generator/"> Manual URL Generator GitHub Pages (gh-pages)</a><br>
-<a href="http://codepen.io/patterns/"> Design Patterns </a><br>
-<a href="http://devshelf.us/"> ХАБ СТАТЕЙ ПРО ВЕБ-РАЗРАБОТКУ </a><br>
-<a href="http://sixrevisions.com/tutorials/devtools-tutorials/"> Google Chrome DevTools Tutorials </a><br>
-[Visualizing Git Concepts](http://onlywei.github.io/explain-git-with-d3/) <br>
+[HTML5 Cross Browser Polyfills] (https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills) <br>
+[Frontend Development] (https://github.com/dypsilon/frontend-dev-bookmarks) <br>
+[Быстрая и удобная сборка шаблонов на Bootsrap 3] (http://lollyt.in/) <br>
+[Подборка библиотек по css3 анамации] (http://codegeekz.com/css-effect-libraries-creating-beautiful-animations/) <br>
+[Manual URL Generator GitHub Pages (gh-pages)] (http://drastudio.github.io/url-generator/) <br>
+[Design Patterns] (http://codepen.io/patterns/) <br>
+[ХАБ СТАТЕЙ ПРО ВЕБ-РАЗРАБОТКУ] (http://devshelf.us/) <br>
+[Google Chrome DevTools Tutorials] (http://sixrevisions.com/tutorials/devtools-tutorials/) <br>
+[Visualizing Git Concepts] (http://onlywei.github.io/explain-git-with-d3/) <br>
 [Генератор паролей] (http://www.passweird.com/) <br>
 [Стилизуем placeholder при помощи CSS] (http://html5.by/blog/placeholder/) <br>
 [Неплохая техника для обрезающегося текста] (http://tutorialzine.com/2014/02/technique-hiding-overflowing-text/) <br>
