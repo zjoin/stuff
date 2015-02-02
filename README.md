@@ -63,7 +63,7 @@
 [Выборка по юзер-агенту с помощью CSS] (http://rog.ie/blog/html5-boilerplate-addon) <br>
 [Создание интерактивного фона, реагирующего на движение курсора мыши] (http://www.onextrapixel.com/2014/04/09/create-an-interactive-moving-backgroundobject-that-reacts-to-viewers-cursor/) <br>
 [Обновление даты в футере] (http://updateyourfooter.com/) <br>
-[] () <br>
+[Туториалы и плагины для создания экранов предзагрузки] (http://www.webresourcesdepot.com/tutorials-and-plugins-for-website-preloading-screens/) <br>
 
  
 
