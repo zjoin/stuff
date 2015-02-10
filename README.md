@@ -12,6 +12,7 @@
 
 [CSS performance test: Flexbox v CSS Table – Fight!] (http://benfrain.com/css-performance-test-flexbox-v-css-table-fight/) <br>
 [Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback] (http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback) <br>
+[Using Flexbox today] (http://chriswrightdesign.com/experiments/using-flexbox-today/?utm_source=CSS-Weekly&utm_campaign=Issue-149&utm_medium=email) <br>
 
 
 ### UI components
