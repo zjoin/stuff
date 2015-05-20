@@ -82,6 +82,7 @@
 [owlcarousel] (http://www.owlcarousel.owlgraphic.com/) <br>
 [bxslider] (http://bxslider.com/) <br>
 [Carousel slick] (http://kenwheeler.github.io/slick/) <br>
+[Flickity] (http://flickity.metafizzy.co/) <br>
 
 
 ### Учебные материалы
