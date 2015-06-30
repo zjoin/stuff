@@ -66,7 +66,8 @@
 [Обновление даты в футере] (http://updateyourfooter.com/) <br>
 [Туториалы и плагины для создания экранов предзагрузки] (http://www.webresourcesdepot.com/tutorials-and-plugins-for-website-preloading-screens/) <br>
 
- 
+### Responsive patterns
+[Responsive patterns] (https://bradfrost.github.io/this-is-responsive/patterns.html) <br>
 
 
 ### Плагины для старта сайта
