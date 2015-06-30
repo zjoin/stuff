@@ -38,6 +38,11 @@
 [Модальные и всплывающие окна для приложений на Angular.js] (http://likeastore.github.io/ngDialog/) <br>
 [Cетка, похожая на mansory, для AngularJS] (http://andrekoenig.info/angular-deckgrid/#/) <br>
 
+## React js
+[React tuts] (https://egghead.io/series/build-your-first-react-js-application?__s=2v2uwwk1ks3rbrca8vxu&order=asc&page=1&utm_campaign=building-a-complete-react-app&utm_medium=email&utm_source=building-a-complete-react-app)
+
+
+
 ### На каждый день
 [HTML5 Cross Browser Polyfills] (https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills) <br>
 [Frontend Development] (https://github.com/dypsilon/frontend-dev-bookmarks) <br>
